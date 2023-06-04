@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.img-container {
+  margin-right: 20px;
+}
+.destination-img {
+  width: 250px;
+}
+.img-container p {
+  color: #252627;
+}

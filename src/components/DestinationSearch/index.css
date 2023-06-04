@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.bg-container {
+  padding: 30px;
+  font-family: roboto;
+}
+.heading {
+  color: #0f172a;
+}
+.search-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  background-color: #f1f5f9;
+  border-radius: 5px;
+  width: 220px;
+}
+.search-box {
+  padding: 10px;
+  border-radius: 10px;
+  border-style: none;
+  background-color: #f1f5f9;
+}
+
+.search-icon {
+  width: 30px;
+}
+
+.destination-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
